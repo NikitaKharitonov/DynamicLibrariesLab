@@ -1,0 +1,5 @@
+﻿  MathLibrary.cpp
+C:\Users\Nikita\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(20,1): warning C4297: euler_fun: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Nikita\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(20,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+     Создается библиотека C:\Users\Nikita\source\repos\MathLibrary\Debug\MathLibrary.lib и объект C:\Users\Nikita\source\repos\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\Nikita\source\repos\MathLibrary\Debug\MathLibrary.dll
